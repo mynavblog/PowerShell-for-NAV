@@ -7,6 +7,7 @@ Script is prepared to automatically build and deploy Dynamics NAV app developed 
 <li>Uninstall and Unpublish App in Dynamics NAV</li>
 <li>Pull latest version from Git repository</li>
 <li>Change version of Application in App.json</li>
+<li>Build the app file ready for publishing</li>
 <li>Publish and Install Application in Dynamics NAV</li>
 <li>Push app.json file with newest version to Git repository</li>
 </ul>
